@@ -1,6 +1,6 @@
 
-# Write a program to perform Addition, Subtraction, Multiplication and Division of 2 Numbers based on the user inputs by using Switch condition.(+ , - , * , /, %).
-
+'''Write a program to perform Addition, Subtraction, Multiplication and Division of 2 Numbers based on the user inputs by using Switch condition.(+ , - , * , /, %).
+'''
 # a=int(input())
 # b=int(input())
 # c=input()
@@ -17,17 +17,17 @@
 
 
 
-# write a program to perform all these tasks
+'''write a program to perform all these tasks
+''''''
+a.     Store a number in a variable
 
-# a.     Store a number in a variable
+b.    If value is not in range (100-1000) prints WRONG NUMBER else follows the steps
 
-# b.    If value is not in range (100-1000) prints WRONG NUMBER else follows the steps
+c.     Check even or odd
 
-# c.     Check even or odd
+d.    If even divide the number by 3 and print the remainder
 
-# d.    If even divide the number by 3 and print the remainder
-
-# e.     If odd divide the number by 2 and print the remainder.
+e.     If odd divide the number by 2 and print the remainder.'''
 
 
 
@@ -41,8 +41,8 @@
 #         print(n%2)
 
 
-# Write a program to find sum of all the numbers in given range if starting index is greater than ending index print INVALID RANGE
-
+'''Write a program to find sum of all the numbers in given range if starting index is greater than ending index print INVALID RANGE
+'''
 
 
 # a=int(input())
@@ -55,8 +55,8 @@
 #         sum=sum+i
 #     print(sum)
     
-# Write a program to print CVCORP for 'N' times
-
+'''Write a program to print CVCORP for 'N' times
+'''
 
 
 # a=int(input())
@@ -67,8 +67,8 @@
 #     print("Invalid Input")
 
 
-# Write a program to print all even numbers in range .if starting range is greater than ending range print "INVALID RANGE"
-
+'''Write a program to print all even numbers in range .if starting range is greater than ending range print "INVALID RANGE"
+'''
 
 # a=int(input())
 # b=int(input())
@@ -80,30 +80,30 @@
 #             print(i,end=" ")
 
 
-# Write a program to convert temperature from degree celcisu (C) to Farenheit (F).
+'''Write a program to convert temperature from degree celcisu (C) to Farenheit (F).'''
 # n=int(input())
 # print(f"{(n*9/5)+32}F")
 
 
-# write a progrm to perform given tasks
+'''write a progrm to perform given tasks
 
-# Declare & initialize a number.
+Declare & initialize a number.
 
-# Check whether the number is in range 0-100 or not.
+Check whether the number is in range 0-100 or not.
 
-# If not in range print INVALID INPUT
+If not in range print INVALID INPUT
 
-# Else – if the number is in range 91-100 then print SUPER SMART,
+Else – if the number is in range 91-100 then print SUPER SMART,
 
-# 81-90 print SMART,
+81-90 print SMART,
 
-# 71-80 print SMART ENOUGH,
+71-80 print SMART ENOUGH,
 
-# 61-70 print JUST SMART,
+61-70 print JUST SMART,
 
-# 36-60 print NO SMART,
+36-60 print NO SMART,
 
-# 0-35 print DUMB.
+0-35 print DUMB.'''
 
 # n=int(input())
 # print(f"{(n*9/5)+32}F")
