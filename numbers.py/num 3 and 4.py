@@ -442,3 +442,5 @@
 #         print(f"{a} is a Armstrong Number.")
 #     else:
 #         print(f"{a} is Not a Armstrong Number.")
+
+
